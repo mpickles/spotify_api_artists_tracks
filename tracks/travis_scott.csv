@@ -1,0 +1,87 @@
+track,album_name,release_date,album_uri,song_uri,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,mode,key,valence,duration
+HYAENA,UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:0hL9gOw6XBWsygEUcVjxEc,80,0.0305,0.608,0.754,0.0,0.119,-5.277,0.0719,97.071,4,1,8,0.455,222085
+THANK GOD,UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:1PH2MDbcBAU094DlgTIND1,81,0.254,0.657,0.553,0.0,0.129,-7.08,0.0394,134.925,4,0,10,0.576,184889
+MODERN JAM (feat. Teezo Touchdown),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:3KCNiDi9Pza6ZD8FggNoaw,78,0.000564,0.517,0.539,1.4e-05,0.537,-6.474,0.038,108.984,4,0,9,0.531,255413
+MY EYES,UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:4kjI1gwQZRKNDkw1nI475M,90,0.651,0.455,0.621,2.59e-06,0.123,-7.694,0.0517,119.043,4,0,0,0.28,251250
+GOD'S COUNTRY,UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:04WxWo7XeVyx22xEsrWRUb,78,0.0229,0.624,0.65,1.21e-05,0.145,-5.819,0.0358,150.048,4,1,2,0.138,127992
+SIRENS,UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:7LSpFCvRZZot2AlmkUzy9k,78,0.0976,0.588,0.88,0.000167,0.767,-6.117,0.0747,96.003,3,0,9,0.242,204447
+MELTDOWN (feat. Drake),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:67nepsnrcZkowTxMWigSbb,86,0.012,0.557,0.774,0.0,0.396,-5.275,0.351,111.975,4,0,7,0.397,246134
+FE!N (feat. Playboi Carti),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:42VsgItocQwOQC3XWZ8JNA,93,0.0316,0.569,0.882,0.0,0.142,-2.777,0.06,148.038,4,0,3,0.201,191701
+DELRESTO (ECHOES) (feat. Beyoncé),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:0OEe83mMZ5kaNw5uZQ7ilG,76,0.461,0.674,0.609,0.0,0.328,-6.306,0.045,116.066,4,0,2,0.509,274138
+I KNOW ?,UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:6wsqVwoiVH2kde4k4KKAFU,91,0.0186,0.927,0.619,0.0,0.104,-4.441,0.0539,117.995,4,0,5,0.817,211582
+TOPIA TWINS (feat. Rob49 & 21 Savage),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:0lodMO0qK83vfPiiD7FMEt,84,0.06,0.715,0.567,0.0,0.0655,-4.481,0.0865,160.098,4,0,1,0.332,223174
+CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:4GL9GMX9t7Qkprvf1YighZ,77,0.000779,0.682,0.764,0.0089,0.373,-6.314,0.0327,125.018,4,1,1,0.248,258843
+PARASAIL (feat. Yung Lean & Dave Chappelle),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:2Q0aElTZQtEUsoiaQfizu6,74,0.858,0.361,0.395,0.00356,0.211,-8.51,0.0429,75.923,3,0,5,0.208,154964
+SKITZO (feat. Young Thug),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:0bkV1iQHSxBaksUqgEkcbc,78,0.103,0.472,0.551,0.0,0.345,-7.219,0.25,83.25,4,0,5,0.347,366593
+LOST FOREVER (feat. Westside Gunn),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:7EiUtdeoWcKqLi5ELZCjYf,76,0.085,0.645,0.803,0.0,0.101,-4.223,0.227,89.499,4,1,1,0.314,163072
+LOOOVE (feat. Kid Cudi),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:0a4SMs889NwP8oWI7Vemle,76,0.0712,0.678,0.739,0.0,0.388,-4.358,0.044,110.967,4,1,3,0.108,226715
+K-POP (feat. Bad Bunny & The Weeknd),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:4o82J5zr4DFEs9yj5szCVX,75,0.0405,0.813,0.621,2.74e-06,0.67,-5.614,0.0618,121.057,4,0,5,0.545,185221
+TELEKINESIS (feat. SZA & Future),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:1i9lZvlaDdWDPyXEE95aiq,86,0.575,0.458,0.535,0.0,0.168,-4.854,0.0281,82.826,4,0,5,0.216,353755
+TIL FURTHER NOTICE (feat. James Blake & 21 Savage),UTOPIA,2023-07-28,spotify:album:18NOKLkZETa4sWwLMIm0UZ,spotify:track:76gcXhY3Zv6wW0BTe9nHJo,80,0.174,0.65,0.659,0.00772,0.126,-6.522,0.123,76.985,4,0,3,0.154,314836
+HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:7h0d2h0fUmzbs7zeFigJPn,65,0.0567,0.559,0.491,0.0,0.0992,-6.406,0.0346,153.131,4,0,2,0.114,244874
+JACKBOYS,JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:62zKJrpbLxz6InR3tGyr7o,54,0.9,0.413,0.13,0.82,0.111,-25.166,0.0336,123.342,1,0,0,0.0676,46837
+GANG GANG,JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:6uJONCdr2rC65BNmCnTBWK,67,0.071,0.859,0.6,0.0,0.353,-4.63,0.301,123.017,4,0,7,0.568,244761
+HAD ENOUGH (feat. Quavo & Offset),JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:7LGWmZaoS7jZJ5tEi9EcDi,63,0.253,0.75,0.789,0.0,0.129,-4.578,0.108,147.957,4,1,2,0.673,157133
+OUT WEST (feat. Young Thug),JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:6gi6y1xwmVszDWkUqab1qw,78,0.0104,0.802,0.591,0.0,0.196,-4.895,0.225,139.864,4,1,8,0.309,157712
+WHAT TO DO? (feat. Don Toliver),JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:4AO1XhrgJczQ9bNVxdfKQe,70,0.0695,0.643,0.594,1.46e-05,0.115,-5.191,0.0312,118.037,4,0,9,0.195,250142
+GATTI,JACKBOYS,2019-12-27,spotify:album:1Sf8GsXG32t0jNrX11xqWx,spotify:track:40mjsnRjCpycdUw3xhS20g,75,0.135,0.594,0.676,0.0,0.163,-5.808,0.344,143.477,4,1,2,0.472,181145
+STARGAZING,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:7wBJfHzpfI3032CSD7CE2m,78,0.00947,0.487,0.789,4.05e-06,0.189,-3.69,0.044,150.007,4,1,8,0.0564,270715
+CAROUSEL,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:7KZ5MMVgBVox9ycroB2UrI,69,0.229,0.428,0.403,0.0,0.22,-5.914,0.209,95.387,5,0,5,0.133,180183
+SICKO MODE,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:2xLMifQCjDGFmkHkpNLD9h,86,0.00513,0.834,0.73,0.0,0.124,-3.714,0.222,155.008,4,1,8,0.446,312820
+R.I.P. SCREW,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:4SZepBIPDRwPaHIjAKwRDb,69,0.389,0.607,0.609,1.6e-05,0.111,-5.978,0.291,74.946,4,0,0,0.556,185610
+STOP TRYING TO BE GOD,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:1xYpVRspgaLxdJLOTQkTjg,71,0.221,0.588,0.567,0.0,0.135,-3.738,0.0628,150.009,4,0,4,0.113,338438
+NO BYSTANDERS,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:6OaVWaGfhXn70ZJfdVcabn,74,0.0204,0.731,0.811,0.0,0.411,-3.225,0.0712,147.045,4,1,1,0.426,218284
+SKELETONS,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:6NMtzpDQBTOfJwMzgMX0zl,78,0.00146,0.46,0.686,0.0,0.375,-5.948,0.0367,148.054,4,0,0,0.252,145588
+WAKE UP,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:20MuVazoNMv6xjKPnRFOxG,70,0.192,0.741,0.645,0.0,0.163,-5.116,0.0963,149.07,4,0,11,0.488,231964
+5% TINT,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:11kDth1aKUEUMq9r1pqyds,81,0.173,0.712,0.481,0.0,0.241,-5.415,0.0487,140.0,4,0,4,0.062,196138
+NC-17,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:6BJbOXDlgVAXSaq6wYFYT2,68,0.0678,0.804,0.763,0.0,0.368,-5.48,0.0519,136.052,4,1,2,0.0585,156886
+ASTROTHUNDER,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:4MXhiYIRDMGAuvZc5IFTwC,78,0.142,0.7,0.46,4.81e-05,0.111,-8.111,0.0661,151.901,4,0,4,0.286,142969
+YOSEMITE,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:7lAK3oHbfEnvUQWosrMMpR,76,0.283,0.785,0.554,3.4e-06,0.116,-6.571,0.0409,128.047,4,1,0,0.144,150043
+CAN'T SAY,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:27a1mYSG5tYg7dmEjWBcmL,79,0.201,0.702,0.708,0.0,0.118,-5.366,0.0547,147.98,4,0,10,0.713,198408
+WHO? WHAT!,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:4KYS9GK68yeuUJ8vJfPxrq,70,0.0462,0.834,0.731,0.0,0.0731,-5.603,0.0566,140.001,4,0,10,0.681,176720
+BUTTERFLY EFFECT,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:2cYqizR4lgvp4Qu6IQ3qGN,85,0.0531,0.763,0.628,0.0,0.114,-5.85,0.05,140.958,4,1,11,0.193,190557
+HOUSTONFORNICATION,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:58TaFP5j5i9swOf584yon2,70,0.0985,0.689,0.723,0.0,0.158,-4.052,0.0836,160.042,4,0,0,0.288,217828
+COFFEE BEAN,ASTROWORLD,2018-08-03,spotify:album:41GuZcammIkupMPKH2OJ6I,spotify:track:6vnfObZ4Ys70SBAtti1xZ9,71,0.0862,0.81,0.582,0.00681,0.207,-5.098,0.125,95.004,4,0,5,0.503,209116
+Modern Slavery,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:7J6bnDDitOwfelaJNixHhL,59,0.00186,0.765,0.733,0.0,0.297,-3.509,0.165,133.966,4,0,4,0.495,148560
+Black & Chinese,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:628Ueb4sRiXApObhcU9iPU,60,0.00389,0.668,0.844,0.00879,0.119,-4.151,0.0956,159.108,4,1,1,0.33,172017
+Eye 2 Eye,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:4vwfOiyWxXeEdx4ejAJgdx,56,0.00122,0.818,0.65,0.0,0.104,-4.328,0.148,146.015,4,1,2,0.163,190679
+Motorcycle Patches,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:7g7raxdQpiLZT7aOlib4S1,59,0.0158,0.868,0.657,0.0,0.0995,-4.853,0.113,162.867,4,1,8,0.436,191410
+Huncho Jack,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:5vuiHi3QYbwcm1OKJOYnrf,55,0.011,0.793,0.574,0.0,0.156,-3.509,0.0435,136.982,4,0,5,0.0601,199227
+Saint,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:7foypmc7KZyU716Yv63BPe,62,0.009,0.866,0.648,0.0,0.0967,-3.675,0.0543,150.058,4,1,1,0.0798,140793
+Go,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:4RgoqOBE34Q6zZj8K7RUAx,53,0.32,0.755,0.898,4.93e-05,0.309,-0.777,0.042,135.057,4,0,5,0.576,156530
+Dubai Shit,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:6urLjX35oXXRYtcH1b3dCh,61,0.0674,0.774,0.529,0.0,0.0814,-4.479,0.0532,138.072,4,0,5,0.227,228431
+Saint Laurent Mask,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:7JGyxh8G8QZnu4AMJuCqlj,55,0.0379,0.771,0.596,0.0,0.169,-4.086,0.0414,135.012,4,1,11,0.0745,190437
+Moon Rock,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:7bTH8LgGSwyNNE4r1k95Zp,55,0.0092,0.72,0.717,0.0,0.147,-4.043,0.046,142.926,4,1,8,0.198,151184
+How U Feel,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:7CWiWkccuRRdrmaW6AjVEf,55,0.0532,0.86,0.799,2.54e-05,0.369,-2.446,0.149,140.005,4,1,2,0.491,205682
+Where U From,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:11cCVYamncF0ezwjj1irQ0,54,0.0542,0.756,0.757,0.0,0.211,-2.969,0.0772,140.073,4,1,1,0.284,251969
+Best Man,"Huncho Jack, Jack Huncho",2017-12-21,spotify:album:6FED8aeieEnUWwQqAO9zT1,spotify:track:2hIFuoXhzcZGvmdtSE35lc,48,0.00304,0.673,0.687,4.77e-05,0.317,-4.567,0.0545,106.859,4,1,8,0.159,266879
+the ends,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:33zbOXJSwW7uf4VXXWow2O,66,0.0661,0.585,0.737,0.0,0.0904,-4.121,0.191,171.853,4,0,4,0.0497,201263
+way back,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:2Zy7XVdxyZQB8xp5xbpJdl,68,0.222,0.396,0.554,0.0,0.612,-5.048,0.0488,117.384,4,1,0,0.17,272501
+coordinate,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:7pas6O1LYbaeChEFQBhPFU,65,0.105,0.688,0.658,1.89e-06,0.335,-4.155,0.0695,75.615,4,1,1,0.28,226397
+through the late night,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:1Ci4wASMY4xtKVMeHA6Sd5,67,0.36,0.744,0.589,0.0,0.119,-1.218,0.0359,127.051,4,0,5,0.242,286236
+beibs in the trap,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:0ESJlaM8CE1jRWaNtwSNj8,70,0.24,0.743,0.571,0.0,0.291,-6.054,0.145,119.054,4,0,7,0.495,213863
+sdp interlude,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:4gh0ZnHzaTMT1sDga7Ek0N,82,0.599,0.507,0.586,0.0544,0.118,-8.15,0.0586,108.164,4,0,0,0.588,191623
+sweet sweet,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:01Ch5LzVStxCFPKkT1xg6k,65,0.0859,0.733,0.578,1.19e-06,0.403,-5.245,0.0417,142.028,4,0,0,0.447,222318
+outside,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:177WEvlLsCc0FzCTWslawr,61,0.503,0.758,0.616,0.0,0.103,-3.471,0.311,165.906,4,1,2,0.494,176488
+goosebumps,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:6gBFPUFcJLzWGx4lenP6h2,88,0.0847,0.841,0.728,0.0,0.149,-3.37,0.0484,130.049,4,1,7,0.43,243837
+first take,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:6wwruKU956ldDyz55DZTt1,60,0.015,0.423,0.536,0.0,0.095,-3.8,0.16,71.313,5,1,7,0.0895,313909
+pick up the phone,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:20dP2DaMHIAmwWAbp7peSr,72,0.114,0.711,0.739,0.0,0.226,-3.804,0.129,136.919,4,0,7,0.43,252256
+lose,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:2AGUFka8kBWCM47h5uTlDb,61,0.307,0.832,0.557,0.0,0.176,-3.947,0.053,125.999,4,0,7,0.279,200453
+guidance,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:2c2csx4OTYtbkzvbSTXlGY,59,0.0609,0.702,0.753,1.38e-06,0.41,-2.943,0.24,139.98,4,1,11,0.453,207107
+wonderful,Birds In The Trap Sing McKnight,2016-09-16,spotify:album:42WVQWuf1teDysXiOupIZt,spotify:track:1cZlBZwnwGPtYeRIeQcoFh,66,0.0737,0.769,0.569,0.0,0.0571,-5.591,0.0786,146.062,4,0,1,0.612,216946
+Pornography,Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:2QeQNF182V61Im0QpjdVta,67,0.105,0.603,0.649,0.0,0.712,-5.887,0.117,128.815,4,1,11,0.343,231827
+Oh My Dis Side (feat. Quavo),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:2rMFawCg4BW65jzbwztXAV,68,0.352,0.459,0.623,0.0,0.131,-4.45,0.0489,126.018,4,1,1,0.205,351253
+3500 (feat. Future & 2 Chainz),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:1SGt65i9AnXYdDQt1AtDRH,73,0.114,0.773,0.595,2.47e-06,0.13,-6.062,0.161,123.968,4,0,8,0.338,461840
+Wasted (feat. Juicy J),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:3dtBVBClM5ms0qCBBrqpUb,60,0.0836,0.689,0.61,0.0,0.36,-9.004,0.217,134.923,4,0,10,0.119,235680
+90210 (feat. Kacy Hill),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:51EC3I1nQXpec4gDk0mQyP,83,0.113,0.402,0.526,8.33e-06,0.105,-6.741,0.0904,81.404,4,0,9,0.312,339067
+Pray 4 Love (feat. The Weeknd),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:2dJ4rGtsOHOgvTQawsCRtg,67,0.2,0.629,0.578,0.0,0.151,-4.704,0.0428,79.94,4,1,1,0.211,307000
+Nightcrawler (feat. Swae Lee & Chief Keef),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:3xby7fOyqmeON8jsnom0AT,85,0.00134,0.522,0.728,0.0,0.132,-3.801,0.0323,124.045,4,0,3,0.18,321560
+Piss On Your Grave (feat. Kanye West),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:5H25xsIuRWUI8GwcoAoeSG,62,0.00793,0.554,0.54,1.05e-06,0.158,-5.687,0.0905,116.877,4,1,1,0.162,166320
+Antidote,Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:1wHZx0LgzFHyeIZkUydNXq,76,0.00767,0.713,0.526,0.000148,0.124,-5.046,0.032,131.05,4,1,1,0.131,262693
+Impossible,Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:0IabpxMpUV7waD7U4uDIMJ,67,0.398,0.507,0.464,2.62e-05,0.603,-8.531,0.171,147.984,4,0,3,0.277,242507
+Maria I'm Drunk (feat. Justin Bieber & Young Thug),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:6Yqmv7XJLCrQEauMbPGZSw,74,0.377,0.648,0.631,0.0,0.12,-5.662,0.103,105.989,4,0,4,0.142,349933
+Flying High (feat. Toro y Moi),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:6HszFW6X5wM8DKX1SO0LaK,58,0.0616,0.628,0.827,0.0,0.495,-3.139,0.04,130.016,4,0,1,0.429,208627
+I Can Tell,Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:2hiuiI3ac0I5kJWtkeGHEL,62,0.000819,0.696,0.8,0.0,0.0954,-5.68,0.0324,110.013,4,1,2,0.0635,235533
+Apple Pie,Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:6scpNkWEmUxmKY7nYjVLsX,70,0.0335,0.655,0.496,0.0,0.156,-4.139,0.0364,137.945,4,0,3,0.28,219360
+Ok Alright (feat. ScHoolboy Q),Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:0MRZ9nMoLc7qQ8Nhovv8C8,60,0.141,0.53,0.661,0.00018,0.123,-5.507,0.083,122.482,4,1,8,0.149,417693
+Never Catch Me,Rodeo,2015-09-04,spotify:album:4PWBTB6NYSKQwfo79I3prg,spotify:track:3jg8bevUzKYONDLBBQquif,61,0.0114,0.527,0.521,0.0232,0.167,-8.341,0.033,99.438,4,0,10,0.127,176160

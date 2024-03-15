@@ -1,35 +1,35 @@
-,track,album_name,release_date,album_uri,song_uri,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,mode,key,valence,duration
-0,Nikes,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:19YKaevk2bce4odJkP5L22,72,0.692,0.633,0.395,0.000222,0.108,-9.638,0.0857,138.023,4,1,8,0.123,314075
-1,Ivy,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2ZWlPOoWh0626oTaHrnl2a,83,0.785,0.575,0.386,0.000289,0.229,-9.584,0.037,116.408,4,0,9,0.466,249191
-2,Pink + White,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:3xKsf9qdS1CyvXSMEid6g8,90,0.667,0.545,0.545,5.48e-05,0.417,-7.362,0.107,159.94,3,1,9,0.549,184516
-3,Be Yourself,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:1IdZvb2XK8NmsovQlV6CPn,63,0.985,0.746,0.429,0.0,0.149,-11.143,0.494,88.413,3,1,7,0.932,86944
-4,Solo,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:35xSkNIXi504fcEwz9USRB,71,0.85,0.469,0.289,2.48e-06,0.161,-10.625,0.0366,133.805,4,0,5,0.258,257380
-5,Skyline To,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:4xR3MAscflQ262kMeiKshQ,66,0.882,0.43,0.296,6.21e-06,0.104,-13.645,0.0583,129.048,4,1,3,0.386,184600
-6,Self Control,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:5GUYJTQap5F3RDQiCOJhrS,77,0.768,0.581,0.21,0.0,0.369,-10.426,0.0321,80.099,4,1,8,0.452,249668
-7,Good Guy,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2JUqYobT8NvARdPmc4ES2x,64,0.983,0.525,0.131,0.00433,0.12,-12.787,0.458,107.007,5,1,0,0.811,66786
-8,Nights,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:7eqoqGkKwgOaWNNHx90uEZ,80,0.427,0.457,0.551,1.15e-06,0.113,-9.36,0.167,89.87,4,0,5,0.428,307151
-9,Solo (Reprise),Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2qtoRFCOEL1gRn5q9DJC7F,63,0.413,0.669,0.749,0.0,0.0848,-6.811,0.141,80.169,4,0,7,0.608,78743
-10,Pretty Sweet,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:17yrCsl1Ai6CZLBmGj6d6p,62,0.258,0.202,0.724,0.0252,0.296,-6.742,0.0494,154.037,4,1,0,0.165,158478
-11,Facebook Story,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:73D5hBkiVZkopZrmBZTBWf,58,0.873,0.526,0.179,0.0,0.248,-20.55,0.692,81.993,3,1,0,0.698,68588
-12,Close To You,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:1VZLEW5ZfcAbKZ94XQiSZF,67,0.194,0.855,0.663,0.0013,0.146,-8.401,0.2,77.978,4,0,5,0.815,85754
-13,White Ferrari,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2LMkwUfqC6S6s6qDVlEuzV,82,0.77,0.501,0.0958,0.0,0.298,-15.605,0.0433,108.741,4,1,0,0.204,248808
-14,Seigfried,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:1BViPjTT585XAhkUUrkts0,71,0.975,0.377,0.253,0.000259,0.101,-11.155,0.0387,125.403,3,0,4,0.367,334570
-15,Godspeed,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:34xTFwjPQ1dC6uJmleno7x,76,0.929,0.399,0.0969,0.000168,0.121,-12.578,0.0509,109.54,4,1,6,0.0758,177922
-16,Futura Free,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:5k8LB57xOq8UUNVaKWSqrf,63,0.769,0.266,0.678,9.37e-05,0.503,-12.364,0.508,83.434,4,1,1,0.201,564166
-17,Start,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:0GAE689kVy7sFT2QWZH1Xa,57,0.74,0.347,0.33,0.931,0.557,-19.761,0.149,82.85,5,1,7,0.0316,45640
-18,Thinkin Bout You,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:7DfFc7a6Rwfi3YQMRbDMau,86,0.409,0.721,0.339,0.00153,0.0973,-11.195,0.0532,129.83,4,1,0,0.2,200747
-19,Fertilizer,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:6jypaMkKsoc5npsVzxhksl,63,0.689,0.706,0.57,0.0698,0.288,-7.129,0.0841,115.864,4,1,11,0.96,39640
-20,Sierra Leone,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:1HwbgJAU9PZ7YbzKgVgoIF,68,0.166,0.529,0.608,0.0185,0.109,-7.809,0.0811,125.017,4,1,7,0.616,148760
-21,Sweet Life,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:6MEDfjHxnVNcYmHe3mM6L2,70,0.227,0.479,0.558,0.0,0.0808,-6.074,0.179,83.465,4,1,11,0.8,262680
-22,Not Just Money,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:3iW3y326xuRpNVXzOMBZy5,58,0.775,0.357,0.827,0.0213,0.493,-15.868,0.444,152.13,1,0,11,0.103,59760
-23,Super Rich Kids,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:0725YWm6Z0TpZ6wrNk64Eb,78,0.219,0.739,0.419,0.0,0.196,-8.241,0.0854,60.493,4,0,3,0.58,304760
-24,Pilot Jones,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:2ohegz9maxzroKBu9YhcCM,64,0.485,0.394,0.433,7.81e-05,0.817,-13.473,0.374,118.988,1,1,8,0.394,184080
-25,Crack Rock,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:5lcyIeEfwZTs8Ajw3kdF7P,72,0.0696,0.429,0.736,0.0,0.0852,-8.017,0.222,89.262,4,1,5,0.379,224147
-26,Pyramids,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:4QhWbupniDd44EDtnh2bFJ,79,0.0118,0.4,0.65,7.62e-05,0.791,-6.104,0.0466,107.989,4,0,5,0.15,592920
-27,Lost,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:3GZD6HmiNUhxXYf8Gch723,85,0.0272,0.913,0.603,0.000503,0.167,-4.892,0.226,123.061,4,1,8,0.497,234093
-28,White,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:1VMdwVq0yaTc4DeqSCi7DO,66,0.758,0.608,0.0664,0.945,0.0978,-18.857,0.0596,139.232,4,1,1,0.294,76280
-29,Monks,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:0msrDPXxZpts4FRnoX0bFr,65,0.0521,0.747,0.758,0.0,0.214,-4.743,0.179,102.02,4,0,0,0.601,200240
-30,Bad Religion,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:2pMPWE7PJH1PizfgGRMnR9,69,0.738,0.359,0.367,1.43e-06,0.0736,-7.684,0.0335,83.331,4,1,9,0.104,175453
-31,Pink Matter,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:1fOkmYW3ZFkkjIdOZSf596,78,0.951,0.392,0.233,0.000322,0.106,-11.012,0.0587,176.569,3,0,11,0.494,268813
-32,Forrest Gump,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:4YZbVct8l9MnAVIROnLQdx,70,0.0888,0.701,0.417,0.000648,0.375,-7.818,0.0329,95.003,4,0,6,0.186,194840
-33,End,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:05tFLPSXJ1BbqIXy4Jeqfh,61,0.383,0.476,0.299,0.752,0.0878,-17.997,0.131,119.487,4,1,2,0.384,134600
+track,album_name,release_date,album_uri,song_uri,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,mode,key,valence,duration
+Nikes,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:19YKaevk2bce4odJkP5L22,72,0.692,0.633,0.395,0.000222,0.108,-9.638,0.0857,138.023,4,1,8,0.123,314075
+Ivy,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2ZWlPOoWh0626oTaHrnl2a,83,0.785,0.575,0.386,0.000289,0.229,-9.584,0.037,116.408,4,0,9,0.466,249191
+Pink + White,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:3xKsf9qdS1CyvXSMEid6g8,90,0.667,0.545,0.545,5.48e-05,0.417,-7.362,0.107,159.94,3,1,9,0.549,184516
+Be Yourself,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:1IdZvb2XK8NmsovQlV6CPn,63,0.985,0.746,0.429,0.0,0.149,-11.143,0.494,88.413,3,1,7,0.932,86944
+Solo,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:35xSkNIXi504fcEwz9USRB,71,0.85,0.469,0.289,2.48e-06,0.161,-10.625,0.0366,133.805,4,0,5,0.258,257380
+Skyline To,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:4xR3MAscflQ262kMeiKshQ,66,0.882,0.43,0.296,6.21e-06,0.104,-13.645,0.0583,129.048,4,1,3,0.386,184600
+Self Control,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:5GUYJTQap5F3RDQiCOJhrS,77,0.768,0.581,0.21,0.0,0.369,-10.426,0.0321,80.099,4,1,8,0.452,249668
+Good Guy,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2JUqYobT8NvARdPmc4ES2x,64,0.983,0.525,0.131,0.00433,0.12,-12.787,0.458,107.007,5,1,0,0.811,66786
+Nights,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:7eqoqGkKwgOaWNNHx90uEZ,80,0.427,0.457,0.551,1.15e-06,0.113,-9.36,0.167,89.87,4,0,5,0.428,307151
+Solo (Reprise),Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2qtoRFCOEL1gRn5q9DJC7F,63,0.413,0.669,0.749,0.0,0.0848,-6.811,0.141,80.169,4,0,7,0.608,78743
+Pretty Sweet,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:17yrCsl1Ai6CZLBmGj6d6p,62,0.258,0.202,0.724,0.0252,0.296,-6.742,0.0494,154.037,4,1,0,0.165,158478
+Facebook Story,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:73D5hBkiVZkopZrmBZTBWf,58,0.873,0.526,0.179,0.0,0.248,-20.55,0.692,81.993,3,1,0,0.698,68588
+Close To You,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:1VZLEW5ZfcAbKZ94XQiSZF,67,0.194,0.855,0.663,0.0013,0.146,-8.401,0.2,77.978,4,0,5,0.815,85754
+White Ferrari,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:2LMkwUfqC6S6s6qDVlEuzV,82,0.77,0.501,0.0958,0.0,0.298,-15.605,0.0433,108.741,4,1,0,0.204,248808
+Seigfried,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:1BViPjTT585XAhkUUrkts0,71,0.975,0.377,0.253,0.000259,0.101,-11.155,0.0387,125.403,3,0,4,0.367,334570
+Godspeed,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:34xTFwjPQ1dC6uJmleno7x,76,0.929,0.399,0.0969,0.000168,0.121,-12.578,0.0509,109.54,4,1,6,0.0758,177922
+Futura Free,Blonde,2016-08-20,spotify:album:3mH6qwIy9crq0I9YQbOuDf,spotify:track:5k8LB57xOq8UUNVaKWSqrf,63,0.769,0.266,0.678,9.37e-05,0.503,-12.364,0.508,83.434,4,1,1,0.201,564166
+Start,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:0GAE689kVy7sFT2QWZH1Xa,57,0.74,0.347,0.33,0.931,0.557,-19.761,0.149,82.85,5,1,7,0.0316,45640
+Thinkin Bout You,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:7DfFc7a6Rwfi3YQMRbDMau,86,0.409,0.721,0.339,0.00153,0.0973,-11.195,0.0532,129.83,4,1,0,0.2,200747
+Fertilizer,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:6jypaMkKsoc5npsVzxhksl,63,0.689,0.706,0.57,0.0698,0.288,-7.129,0.0841,115.864,4,1,11,0.96,39640
+Sierra Leone,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:1HwbgJAU9PZ7YbzKgVgoIF,68,0.166,0.529,0.608,0.0185,0.109,-7.809,0.0811,125.017,4,1,7,0.616,148760
+Sweet Life,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:6MEDfjHxnVNcYmHe3mM6L2,70,0.227,0.479,0.558,0.0,0.0808,-6.074,0.179,83.465,4,1,11,0.8,262680
+Not Just Money,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:3iW3y326xuRpNVXzOMBZy5,58,0.775,0.357,0.827,0.0213,0.493,-15.868,0.444,152.13,1,0,11,0.103,59760
+Super Rich Kids,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:0725YWm6Z0TpZ6wrNk64Eb,78,0.219,0.739,0.419,0.0,0.196,-8.241,0.0854,60.493,4,0,3,0.58,304760
+Pilot Jones,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:2ohegz9maxzroKBu9YhcCM,64,0.485,0.394,0.433,7.81e-05,0.817,-13.473,0.374,118.988,1,1,8,0.394,184080
+Crack Rock,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:5lcyIeEfwZTs8Ajw3kdF7P,72,0.0696,0.429,0.736,0.0,0.0852,-8.017,0.222,89.262,4,1,5,0.379,224147
+Pyramids,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:4QhWbupniDd44EDtnh2bFJ,79,0.0118,0.4,0.65,7.62e-05,0.791,-6.104,0.0466,107.989,4,0,5,0.15,592920
+Lost,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:3GZD6HmiNUhxXYf8Gch723,85,0.0272,0.913,0.603,0.000503,0.167,-4.892,0.226,123.061,4,1,8,0.497,234093
+White,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:1VMdwVq0yaTc4DeqSCi7DO,66,0.758,0.608,0.0664,0.945,0.0978,-18.857,0.0596,139.232,4,1,1,0.294,76280
+Monks,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:0msrDPXxZpts4FRnoX0bFr,65,0.0521,0.747,0.758,0.0,0.214,-4.743,0.179,102.02,4,0,0,0.601,200240
+Bad Religion,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:2pMPWE7PJH1PizfgGRMnR9,69,0.738,0.359,0.367,1.43e-06,0.0736,-7.684,0.0335,83.331,4,1,9,0.104,175453
+Pink Matter,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:1fOkmYW3ZFkkjIdOZSf596,78,0.951,0.392,0.233,0.000322,0.106,-11.012,0.0587,176.569,3,0,11,0.494,268813
+Forrest Gump,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:4YZbVct8l9MnAVIROnLQdx,70,0.0888,0.701,0.417,0.000648,0.375,-7.818,0.0329,95.003,4,0,6,0.186,194840
+End,channel ORANGE,2012-07-10,spotify:album:392p3shh2jkxUxY2VHvlH8,spotify:track:05tFLPSXJ1BbqIXy4Jeqfh,61,0.383,0.476,0.299,0.752,0.0878,-17.997,0.131,119.487,4,1,2,0.384,134600

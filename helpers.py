@@ -80,8 +80,8 @@ def df_tracks(tracklist):
     return df
 
 def get_audio_features(df, spotify_client):
-  # prevent error 429 by waiting 30 seconds before sending request
-  time.sleep(30)    
+  # prevent error 429 by waiting 5 seconds before sending request
+  time.sleep(5)    
   # Send 50 tracks per request
   batchsize = 50
 
@@ -168,7 +168,8 @@ def get_audio_features(df, spotify_client):
               'loudness', 'speechiness', 'tempo', 'time_signature', 'mode', 'key', 'valence', 'duration', ]
   df= df[cols]
   df['release_date'] = df['release_date'].str.split('-').str[0].tolist()
-  df = df.rename(columns = {'release_date':'release_year'})
+  df = df.rename(columns = {'release_date':'year'})
+  
   return df
 
 def get_artist_tracklist(artist, spotify_client):

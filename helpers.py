@@ -2,17 +2,9 @@ from tqdm.notebook import tqdm
 import pandas as pd
 import time
 
-
-
 def artist_all_tracks(artist, spotify_client):
     
-    '''
-    Takes a list of artist names, iterates through their Spotify albums (including
-    singles, compilations and collaborations), checks for duplicate albums, then
-    appends all the tracks in those albums to a list of lists
-    '''
-    
-    # Each list in this list will be a track and its features
+   # Each list in this list will be a track and its features
     tracks = []
         
     # Get the artist URI (a unique ID)
@@ -59,11 +51,6 @@ def artist_all_tracks(artist, spotify_client):
     return tracks
 
 def df_tracks(tracklist):
-    
-    '''
-    Takes the output of artist_tracks (i.e. a list of lists),
-    puts it in a dataframe and formats it.
-    '''
 
     df = pd.DataFrame(tracklist, columns=['artist',
      'album_name',
@@ -169,7 +156,7 @@ def get_audio_features(df, spotify_client):
   df= df[cols]
   df['release_date'] = df['release_date'].str.split('-').str[0].tolist()
   df = df.rename(columns = {'release_date':'year'})
-  
+
   return df
 
 def get_artist_tracklist(artist, spotify_client):
